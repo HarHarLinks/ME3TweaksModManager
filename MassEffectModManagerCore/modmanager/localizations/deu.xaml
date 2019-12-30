@@ -32,10 +32,10 @@
     <system:String x:Key="string_ImportmodfromArchive">Mod aus .7z/.rar/.zip/.exe/.me2mod-Datei importieren</system:String>
     <system:String xml:space="preserve" x:Key="string_ImportModFromArchiveTooltip">Öffne den Datei-Explorer um in Archivdateien gespeicherte Mods auszuwählen.&#10;Du kannst dann Dateien auf das Mod Manager-Fenster ziehen um sie schneller zu importieren.</system:String>
     <system:String x:Key="string_ImportalreadyinstalledCustomDLCmod">Importiere einen bereits installierten Custom DLC Mod</system:String>
-    <system:String x:Key="string_DownloadModMakermod">Lade ModMaker Mod herunter</system:String>
+    <system:String x:Key="string_DownloadModMakermod">ModMaker Mod herunterladen</system:String>
     <system:String x:Key="string_ASIModManager">ASI Mod Manager</system:String>
-    <system:String x:Key="string_ASIManagerTooltip">Verwalte ASI Mods. Nur für erfahrene Benutzer.</system:String>
-    <system:String x:Key="string_CustomDLCConflictDetector">Custom DLC Kollisionserkennung</system:String>
+    <system:String x:Key="string_ASIManagerTooltip">ASI Mods verwalten. Nur für erfahrene Benutzer.</system:String>
+    <system:String x:Key="string_CustomDLCConflictDetector">Custom DLC-Kollisionserkennung</system:String>
     <system:String x:Key="string_GUICompact">Interface Scaling/Controller Mod Kompatibilitätspack-Generator (ME3)</system:String>
     <system:String x:Key="string_GUICompactTooltip">Durchsucht ME3 Mods nach Exporten die Teil von Benutzeroberflächen-Mods sind und generiert nötigenfalls einen Patch.</system:String>
     <system:String x:Key="string_BatchModInstaller">Mehrere Mods auf einmal installieren</system:String>
@@ -112,7 +112,7 @@
     <system:String x:Key="string_cannotEndorseOwnMod">Du kannst deinen eigenen Mod nicht empfehlen</system:String>
     <system:String x:Key="string_notLinkedToNexusMods">nicht mit NexusMods verknüpft</system:String>
     <system:String x:Key="string_notAuthenticated">nicht authentifiziert</system:String>
-    <system:String x:Key="string_gettingEndorsementStatus">Lade Empfehlungsstatus</system:String>
+    <system:String x:Key="string_gettingEndorsementStatus">Empfehlungsstatus wird geladen</system:String>
     <system:String x:Key="string_endorseMod">Empfiehl diesen Mod</system:String>
     <system:String x:Key="string_modEndorsed">&#x1F44D; Du empfiehlst diesen Mod</system:String>
     <system:String x:Key="string_loginToNexusModsToEnableEndorsements">Logge dich bei NexusMods ein um Empfehlungen zu ermöglichen</system:String>
@@ -889,6 +889,6 @@
     <system:String x:Key="string_resetAll">Alles zurücksetzen</system:String>
     <system:String x:Key="string_tooltip_commitsYourEditsToMassEffectsConfigurationFiles">Schreibt deine Veränderungen in Mass Effect's Konfigurationsdateien</system:String>
     <system:String x:Key="string_save">Speichern</system:String>
+    <system:String x:Key="string_saved">Gespeichert</system:String>
     <system:String x:Key="string_resetIniItemsExceptBasic">Ini-Werte wurden auf den Ursprungswert zurückgesetzt (ausgenommen grundlegende Einstellungen). Klicke Speichern um die Veränderungen zu speichern</system:String>
-
 </ResourceDictionary>
